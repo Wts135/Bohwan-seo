@@ -1,8 +1,5 @@
 {
   "buildCommand": null,
   "outputDirectory": "dist",
-  "installCommand": null,
-  "devCommand": null,
-  "framework": null,
-  "_force": "No build, serve dist only"
+  "installCommand": null
 }
