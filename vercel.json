@@ -1,6 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": null,
   "outputDirectory": "dist",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install"
+  "installCommand": null
 }
