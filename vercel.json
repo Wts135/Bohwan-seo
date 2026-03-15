@@ -1,5 +1,7 @@
 {
-  "buildCommand": null,
+  "buildCommand": "echo 'Skipping build' && exit 0",
   "outputDirectory": "dist",
-  "installCommand": null
+  "installCommand": "echo 'Skipping install' && exit 0",
+  "devCommand": null,
+  "framework": null
 }
